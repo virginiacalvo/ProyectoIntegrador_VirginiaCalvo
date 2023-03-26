@@ -1,0 +1,23 @@
+.row{
+    padding: 20px;
+    background: #BD8D94;
+}
+
+,contenedor{
+    width: auto;
+}
+
+.card-header{
+    background: black;
+    color: bisque;
+}
+
+.parte1, .parte2{
+    display: inline-block;
+    text-align: justify;
+}
+
+,img-proyecto{
+    box-shadow: 10px 10px 30px black;
+    box-shadow: ejeX ejeY difumasion color;
+}

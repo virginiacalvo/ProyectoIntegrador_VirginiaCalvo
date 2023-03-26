@@ -1,0 +1,12 @@
+.row{
+    margin: 0%;
+}
+
+#destacado { 
+    color : white;
+    background: black;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    text-align: center;
+    text-shadow: 1px 1px 1px white;
+ }
+  

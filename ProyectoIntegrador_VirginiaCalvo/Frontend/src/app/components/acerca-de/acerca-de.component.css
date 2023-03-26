@@ -1,0 +1,16 @@
+.row{
+    padding: 20px;
+    background: #BD8D94;
+    color: black;
+}
+
+div{
+    text-align: center;
+}
+
+
+
+#nombre{
+    font-weight: bold;
+    margin-top: 30%;
+}
